@@ -1,0 +1,6 @@
+exports.oes_dbname = "tsp60_nu_oesdb"
+exports.pers_dbname = "tsp60_nu_persdb"
+exports.srp_dbname = "tsp60_nu_srpdb"
+exports.tia_dbname = "tsp60_nu_tiasdb"
+exports.ums_dbname = "tsp60_nu_umsdb"
+exports.user_dbname = "tsp60_nu_userdb"
